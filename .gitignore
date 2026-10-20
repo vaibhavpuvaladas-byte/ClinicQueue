@@ -8,6 +8,9 @@ target/
 *.db-wal
 *.db-shm
 
+# Local tooling
+.tools/
+
 # IDE & Editor files
 .idea/
 *.iml
